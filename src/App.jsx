@@ -20,7 +20,9 @@ export function App() {
   return (
     <div>
       <Header />
-      <Outlet />
+      <div className="workspace">
+        <Outlet />
+      </div>
     </div>
   );
 }
