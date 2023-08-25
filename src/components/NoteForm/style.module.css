@@ -1,0 +1,21 @@
+.button {
+  text-align: right;
+}
+
+.form {
+  position: relative;
+}
+
+.icons {
+  cursor: pointer;
+}
+
+.container {
+  padding: 50px;
+  background-color: white;
+  border-radius: 22px;
+}
+
+.title_input_container {
+  max-width: 300px;
+}
