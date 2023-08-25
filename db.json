@@ -11,6 +11,12 @@
       "content": "Some note content !!!",
       "created_at": "02/01/2022",
       "id": 2
+    },
+    {
+      "title": "new note",
+      "content": "this is the content",
+      "created_at": "25/08/2023",
+      "id": 3
     }
   ]
 }
